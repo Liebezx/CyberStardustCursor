@@ -1,7 +1,6 @@
 # CyberStardustCursor
 
 An interactive **Cyber Stardust** cursor trail plugin for **BetterDiscord** with a built-in live preview editor.  
-Originally created for *YouTubeMusic Downloader by Liebe* and ported to BetterDiscord.
 
 ## Features
 
